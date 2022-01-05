@@ -47,10 +47,12 @@
 	{/if}
 	</p>
 </div>
+{*
 <div class='pageoverflow'>
 	<p class='pagetext'>{$title_user_redemptions_max}:</p>
 	<p class='pageinput'>{$input_user_redemptions_max}</p>
 </div>
+*}
 <div class='pageoverflow'>
 	<p class='pagetext'>{$title_status}:</p>
 	<p class='pageinput'>{$input_status}</p>
