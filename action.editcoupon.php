@@ -69,7 +69,7 @@ $code_redemptions_max = '';
 if (isset($params['code_redemptions_max'])) {
 	$code_redemptions_max = trim($params['code_redemptions_max']);
 }
-$user_redemptions_max = '';
+$user_redemptions_max = 0;
 if (isset($params['user_redemptions_max'])) {
 	$user_redemptions_max = trim($params['user_redemptions_max']);
 }
